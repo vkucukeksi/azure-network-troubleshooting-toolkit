@@ -34,9 +34,9 @@ azure-network-troubleshooting-toolkit
 │   ├── routing
 │   │   └── Get-AzureEffectiveRoutes.ps1
 │   ├── dns
-│   │   └── (empty)
+│   │   └── Test-AzureDNS.ps1
 │   └── peering
-│       └── (empty)
+│       └── Check-VNetPeering.ps1
 │
 ├── diagrams
 │   └── hub-spoke-routing.png
